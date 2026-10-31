@@ -40,6 +40,3 @@ This project explores MovieLens user-item ratings and builds two non-personalize
 - **Lack of Personalization:** The recommender is non-personalized; every user receives the exact same Top 10 list regardless of individual taste or historical preferences.
 - **Popularity Bias:** Mainstream blockbusters dominate the rankings, creating a feedback loop that disadvantages niche, independent, or foreign movies.
 - **Cold-Start Problem:** New movies with zero or very few ratings cannot be recommended until they accumulate sufficient user interactions.
-
-
-## Screenshot
